@@ -1,6 +1,6 @@
 # React__application
 
-##Project Setup
+## Project Setup
 
 To set up the project locally, follow these steps:
 
@@ -10,7 +10,7 @@ To set up the project locally, follow these steps:
 
 3 - Install dependencies using npm or yarn:
 
-##To run the project successfully, you will need to install the following dependencies:
+## To run the project successfully, you will need to install the following dependencies:
 
 React: The core library for building user interfaces in React.
 
@@ -22,10 +22,10 @@ any additional dependencies you may have, such as CSS frameworks or utility libr
 
 Command for doing above is as follows :
 
-###npm install react react-router-dom axios
+### 'npm install react react-router-dom axios'
 
 
-##Running the Application
+## Running the Application
 
 To run the application on your local machine, follow these steps:
 
@@ -33,7 +33,7 @@ Make sure you're in the project directory in your terminal.
 
 Start the development server:
 
-###npm start
+### 'npm start'
 
 
 Open your web browser and navigate to http://localhost:3000 to view the application.
